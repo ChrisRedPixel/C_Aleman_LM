@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    count <<"Hola Mundo!!\n";
+    cout <<"Hola Mundo!!\n";
 
     return 0;
 }
