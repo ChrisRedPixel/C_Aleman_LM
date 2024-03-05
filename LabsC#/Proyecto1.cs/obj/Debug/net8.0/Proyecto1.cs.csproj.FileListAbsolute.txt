@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\bin\Debug\net8.0\Proyecto1.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\bin\Debug\net8.0\Proyecto1.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\bin\Debug\net8.0\Proyecto1.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\bin\Debug\net8.0\Proyecto1.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\bin\Debug\net8.0\Proyecto1.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\refint\Proyecto1.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\Proyecto1.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Proyecto1.cs\obj\Debug\net8.0\ref\Proyecto1.cs.dll
