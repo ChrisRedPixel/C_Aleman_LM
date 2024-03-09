@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\bin\Debug\net8.0\Captura.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\bin\Debug\net8.0\Captura.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\bin\Debug\net8.0\Captura.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\bin\Debug\net8.0\Captura.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\bin\Debug\net8.0\Captura.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\refint\Captura.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\Captura.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Captura.cs\obj\Debug\net8.0\ref\Captura.cs.dll
