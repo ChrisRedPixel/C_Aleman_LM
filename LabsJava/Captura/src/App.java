@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args)
     {
-        Scanner scanner = new Scanner(System.in);
-
+        Scanner scanner = new Scanner(System.in); 
+        
         System.out.print("Ingrese un número entero: ");
         int entero = scanner.nextInt();
 
@@ -18,6 +18,7 @@ public class App {
 
         System.out.print("Ingrese una cadena de caracteres:");
         String cadena = scanner.nextLine();
+        
         
     }
 
