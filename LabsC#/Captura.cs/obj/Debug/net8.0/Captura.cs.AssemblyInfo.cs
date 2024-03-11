@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Captura.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb01f306c80ae0245f3f47c8b35466830f598111")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70663cd6f1571143b5c716a9033f3f47a43e17d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Captura.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Captura.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

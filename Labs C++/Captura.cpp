@@ -20,7 +20,7 @@ int main()
     cin >> caracter;
 
     cout << "Ingrese una cadena de caracteres: ";
-    cin.ignore(); // ignorar el '\n' djafo por
+    //cin.ignore(); // ignorar el '\n' djafo por
         // cin >> caracter
     getline(cin,cadena); // Lee una línea de texto desde la 
         //entrada estándar (cin) y la almacena en la variable cadena

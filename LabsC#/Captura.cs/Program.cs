@@ -18,6 +18,15 @@ namespace Captura
             Console.Write("Ingrese una cadena de caracteres: ");
             string cadena = Console.ReadLine();
 
+            Console.WriteLine();
+            Console.WriteLine("El valor de tipo entero entrado es: {0}",entero);
+            Console.WriteLine("El valor de tipo float entrado es: {0}",flotante);
+            Console.WriteLine("El valor de tipo caracter entrado es: {0}",caracter);
+            Console.WriteLine("El valor de tipo cadena entrado es: {0}",cadena);
+
+
+
+
         }
     }
 }
