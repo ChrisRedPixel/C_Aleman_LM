@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\bin\Debug\net8.0\Suma.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\bin\Debug\net8.0\Suma.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\bin\Debug\net8.0\Suma.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\bin\Debug\net8.0\Suma.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\bin\Debug\net8.0\Suma.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\refint\Suma.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\Suma.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Suma.cs\obj\Debug\net8.0\ref\Suma.cs.dll
