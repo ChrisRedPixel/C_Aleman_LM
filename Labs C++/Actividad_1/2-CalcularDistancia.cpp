@@ -8,11 +8,11 @@ int main()
 
     cout <<"A que velocidad fueron? (resultado va a ser en kilometros dividido en horas [km/h]): ";
     cin >> velocidad;
-    cout <<"Velodidad: "<< velocidad <<"km/h"<<endl;
+    cout <<"Velodidad: "<< velocidad <<" km/h"<<endl;
 
     cout <<"Cuanto tiempo duro el viaje? (resultado va a ser en horas): ";
     cin >> tiempo;
-    cout <<"Tiempo: "<< tiempo <<"horas"<<endl;
+    cout <<"Tiempo: "<< tiempo <<" horas"<<endl;
 
     distancia = velocidad * tiempo;
 
