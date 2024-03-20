@@ -6,7 +6,7 @@ int main()
 {
     double distancia, velocidad, tiempo;
 
-    cout <<"A que velocidad fueron? (resultado va a ser en kilómetros dividido en horas [km/h]): ";
+    cout <<"A que velocidad fueron? (resultado va a ser en kilómetros por hora [km/h]): ";
     cin >> velocidad;
     cout <<"Velodidad: "<< velocidad <<" km/h"<<endl;
 
