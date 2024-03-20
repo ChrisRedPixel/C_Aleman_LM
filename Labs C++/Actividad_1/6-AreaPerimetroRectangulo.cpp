@@ -18,7 +18,7 @@ int main()
 
     perimetro = 2 * base + 2 * altura;
 
-    cout <<"El perimetro del rectangulo es: "<< perimetro <<endl;
+    cout <<"El perímetro del rectangulo es: "<< perimetro <<endl;
 
     return 0;
 
