@@ -3,17 +3,17 @@ using namespace std;
 
 int main()
 {
-    double anoNacimiento, anoActual, edad;
+    double birthYear, currentYear, edad;
 
-    cout <<"Ingrese el ano en que nacio alguien: ";
-    cin >> anoNacimiento;
+    cout <<"Ingrese el año en que nació alguien: ";
+    cin >> birthYear;
 
-    cout <<"Ingrese el ano actual: ";
-    cin >> anoActual;
+    cout <<"Ingrese el año actual: ";
+    cin >> currentYear;
 
-    edad = anoActual - anoNacimiento;
+    edad = currentYear - birthYear;
 
-    cout <<"El ano aproximado que tiene esta persona es: "<< edad <<" anos."<<endl;
+    cout <<"El año aproximado que tiene esta persona es: "<< edad <<" años."<<endl;
 
     return 0;
 
