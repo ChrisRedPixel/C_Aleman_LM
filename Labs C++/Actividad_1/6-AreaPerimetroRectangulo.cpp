@@ -6,7 +6,7 @@ int main()
 {
     double area, base, altura, perimetro;
 
-    cout <<"Introduzca la longitud de la base del rectangulo: ";
+    cout <<"Introduzca la longitud del rectangulo: ";
     cin >> base;
 
     cout <<"Introduzca la altura del rectangulo: ";

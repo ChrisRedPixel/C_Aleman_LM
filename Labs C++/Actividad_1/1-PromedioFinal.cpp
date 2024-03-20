@@ -20,7 +20,7 @@ int main()
     //proceso para obtener promedio final
     promedioFinal = (examen1 + examen2 + examen3 + examen4) / 4;
     //resultado del promedio final
-    cout <<"El promedio final obtenido fue: "<< promedioFinal <<" puntos." <<endl;
+    cout <<"El promedio final obtenido fue: "<< promedioFinal <<endl;
 
     return 0;
 }
