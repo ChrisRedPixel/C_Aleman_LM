@@ -5,9 +5,12 @@ int main()
 {
     int numero;
 
+    cout << "Ingrese un numero: ";
+    cin >> numero;
+
     try
     {
-        if (numero != )
+        if (numero != int)
         {
             throw "Solo se permite números enteros"; //mensaje que escribe el problema
         }
