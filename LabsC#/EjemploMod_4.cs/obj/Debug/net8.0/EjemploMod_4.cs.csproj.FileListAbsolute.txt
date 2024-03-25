@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\bin\Debug\net8.0\EjemploMod_4.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\bin\Debug\net8.0\EjemploMod_4.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\bin\Debug\net8.0\EjemploMod_4.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\bin\Debug\net8.0\EjemploMod_4.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\bin\Debug\net8.0\EjemploMod_4.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\refint\EjemploMod_4.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\EjemploMod_4.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\EjemploMod_4.cs\obj\Debug\net8.0\ref\EjemploMod_4.cs.dll
