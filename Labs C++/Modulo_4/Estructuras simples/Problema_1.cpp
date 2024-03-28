@@ -5,12 +5,17 @@ int main()
 {
     int antiguedad;
 
-    cout << "Cuantos años tiene el empleado?: ";
+    cout << "Escribe la antiguedad del empleado (en años): ";
     cin >> antiguedad;
 
-    if (antiguedad > 4)
+    if (antiguedad >= 5)
     {
-        cout << "El empleado recibirá un bono de $1000." << endl;
+        cout << "El empleado es elegible para el bono recibirá $1000." << endl;
+    }
+
+    if (antiguedad < 5)
+    {
+        cout << "El empleado no es elegible para el bono." << endl;
     }
     
     return 0;
