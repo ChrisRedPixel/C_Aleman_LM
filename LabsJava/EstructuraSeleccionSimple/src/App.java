@@ -5,9 +5,11 @@ public class App {
     {
         Scanner scanner = new Scanner(System.in);
         System.out.print("La targeta de la biblioteca esta activa?(escribe si o no)");
-        boolean targeta = scanner.nextInt();
+        targeta = scanner.nextInt();
 
-        if (targeta = "si")
+
+
+        if (targeta = )
         {
             System.out.println("El número entero es positivo");
         }
