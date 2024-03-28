@@ -3,24 +3,25 @@ using namespace std;
 
 int main()
 {
-    int numero;
+    float numero; //variable de tipo flat
+    int num_entero; //variable de tipo entero
 
-    cout << "Ingrese un numero: ";
+    cout << "Ingrese un número entero: ";
     cin >> numero;
 
     try
     {
-        if (numero != int)
+        if (numero != num_entero) //condicion s iel numero no es igual a un numero entero
         {
-            throw "Solo se permite números enteros"; //mensaje que escribe el problema
+            throw "El número ingresado es un numero entero.";
         }
 
-        cout << "Resultado: " << numero << endl;
+        cout << "El número entero ingresado es: " << numero << endl;
 
     }
     catch (const char* mensaje)
     {
-        cout << "Problema capturado: " << mensaje <<endl;
+        cout << "Excepción capturado: " << mensaje <<endl;
     }
 
     return 0;
