@@ -11,7 +11,7 @@ int main()
 
     try
     {
-        if (numero != num_entero) //condicion s iel numero no es igual a un numero entero
+        if (numero != num_entero) //condicion si el numero no es igual a un numero entero
         {
             throw "El número ingresado es un numero entero.";
         }
