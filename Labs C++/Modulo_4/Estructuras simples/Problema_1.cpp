@@ -10,7 +10,7 @@ int main()
 
     if (antiguedad >= 5)
     {
-        cout << "El empleado es elegible para el bono recibirá $1000." << endl;
+        cout << "El empleado es elegible para el bono. El empleado recibirá $1000." << endl;
     }
 
     if (antiguedad < 5)

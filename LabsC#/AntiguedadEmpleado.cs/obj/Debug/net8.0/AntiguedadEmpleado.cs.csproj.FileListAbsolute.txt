@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\bin\Debug\net8.0\AntiguedadEmpleado.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\bin\Debug\net8.0\AntiguedadEmpleado.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\bin\Debug\net8.0\AntiguedadEmpleado.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\bin\Debug\net8.0\AntiguedadEmpleado.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\bin\Debug\net8.0\AntiguedadEmpleado.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\refint\AntiguedadEmpleado.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\AntiguedadEmpleado.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\AntiguedadEmpleado.cs\obj\Debug\net8.0\ref\AntiguedadEmpleado.cs.dll

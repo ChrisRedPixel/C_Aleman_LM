@@ -9,7 +9,8 @@ namespace EjemploMod_4
             Console.Write("Introduce un número: ");
             int n = int.Parse(Console.ReadLine());
 
-            if (n > 0) {
+            if (n > 0) 
+            {
                 Console.WriteLine("El número es positivo");
             }
         }
