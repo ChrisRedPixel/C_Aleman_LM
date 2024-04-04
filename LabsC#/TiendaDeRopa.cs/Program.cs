@@ -14,12 +14,12 @@ namespace MyApp
 
             if(precio >= 150 || membresia == 1)
             {
-                Console.WriteLine("La persona va a recibír un descuento.")
+                Console.WriteLine("La persona va a recibír un descuento.");
             }
 
             else
             {
-                Console.WriteLine("La persona NO va a recibír un descuento.")
+                Console.WriteLine("La persona NO va a recibír un descuento.");
             }
         }
     }
