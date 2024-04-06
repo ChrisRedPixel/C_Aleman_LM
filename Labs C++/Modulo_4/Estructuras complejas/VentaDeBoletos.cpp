@@ -3,17 +3,17 @@ using namespace std;
 
 int main() 
 {
-    int miembro, entradas;
+    int miembro, numEntradas;
 
     cout << "Eres un miembro del teatro (escribe 1 para si u otro número para no.)?: ";
     cin >> miembro;
 
     cout << "Cuantas entradas para el teatro compraste?: ";
-    cin >> entradas;
+    cin >> numEntradas;
 
     if (miembro == 1)
     {
-        if (entradas > 5)
+        if (numEntradas > 5)
         {
             cout << "Recibirás un 15% de descuento" <<endl;
         }
@@ -25,7 +25,7 @@ int main()
 
     else
     {
-        if (miembro != 1 && entradas > 10)
+        if (miembro != 1 && numEntradas > 10)
         {
             cout << "Recibirás un 5% de descuento." <<endl;
         }
