@@ -7,11 +7,11 @@ namespace MyApp
         static void Main(string[] args)
         {
             Console.Write("Cual es su nombre?: ");//Se inserta el nombre del usador
-            string suNombre = string.Parse(Console.ReadLine());
+            string suNombre = Console.ReadLine();
 
             for (int i = 1; i <= 10; i = i + 1)
             {
-                Console.WriteLine("Hola " + suNombre);//El nombre que se insertó se imprime
+                Console.WriteLine("Hola " + suNombre);//El nombre que se insertó y se imprime
             }
         }
     }
