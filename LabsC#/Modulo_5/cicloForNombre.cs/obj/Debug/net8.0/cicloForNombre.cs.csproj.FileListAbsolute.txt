@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\bin\Debug\net8.0\cicloForNombre.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\bin\Debug\net8.0\cicloForNombre.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\bin\Debug\net8.0\cicloForNombre.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\bin\Debug\net8.0\cicloForNombre.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\bin\Debug\net8.0\cicloForNombre.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\refint\cicloForNombre.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\cicloForNombre.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\Modulo_5\cicloForNombre.cs\obj\Debug\net8.0\ref\cicloForNombre.cs.dll
