@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.sourcelink.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\bin\Debug\net8.0\cicloWhile_Temp.cs.exe
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\bin\Debug\net8.0\cicloWhile_Temp.cs.deps.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\bin\Debug\net8.0\cicloWhile_Temp.cs.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\bin\Debug\net8.0\cicloWhile_Temp.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\bin\Debug\net8.0\cicloWhile_Temp.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\refint\cicloWhile_Temp.cs.dll
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.pdb
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\cicloWhile_Temp.cs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\cicloWhile_Temp.cs\obj\Debug\net8.0\ref\cicloWhile_Temp.cs.dll
