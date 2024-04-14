@@ -4,12 +4,12 @@ public class App {
         Scanner scanner = new Scanner(System.in); 
 
         double mes = 0;
-        double promedio;
+        double promedio, temperatura;
 
         for(int i = 1; i <= 12; i = i + 1)
         { 
             System.out.println("Inserte la temperatura del mes: ");
-            double temperatura = scanner.nextDouble();
+            temperatura = scanner.nextDouble();
 
             mes = mes + temperatura;
         }
