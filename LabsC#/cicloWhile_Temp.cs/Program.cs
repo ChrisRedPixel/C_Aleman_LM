@@ -2,7 +2,7 @@
 
 namespace MyApp
 {
-    internal class Program
+    internal class cicloWhile_Temperatura
     {
         static void Main(string[] args)
         {
