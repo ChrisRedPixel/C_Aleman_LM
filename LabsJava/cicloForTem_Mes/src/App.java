@@ -11,7 +11,7 @@ public class App {
         for(int i = 1; i <= 12; i = i + 1)
         { 
             //se inserta la temperatura durante el mes
-            System.out.println("Inserte la temperatura del mes: ");
+            System.out.print("Inserte la temperatura del mes (Celsius): ");
             temperatura = scanner.nextDouble();
 
             //se sigue hacia el siguiente mes y se suma la temperatura
@@ -22,6 +22,6 @@ public class App {
         promedio = mes / 12;
 
         //resultado final del promedio
-        System.out.println("El promedio de las 12 temperaturas durante un año es " + promedio);
+        System.out.println("El promedio de las 12 temperaturas durante un año es " + promedio + " celsius.");
     }
 }
