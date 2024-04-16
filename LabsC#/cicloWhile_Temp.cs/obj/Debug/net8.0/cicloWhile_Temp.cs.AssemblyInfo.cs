@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cicloWhile_Temp.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6d66cad91fa32587f8bf994f6c1b3b5abe19435")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85505acc1122084210a068e5fbe5c402659e73b")]
 [assembly: System.Reflection.AssemblyProductAttribute("cicloWhile_Temp.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cicloWhile_Temp.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

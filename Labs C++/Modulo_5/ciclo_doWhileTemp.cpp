@@ -9,7 +9,7 @@ int main()
     do
     {
         //se inserta la temperatura durante el mes
-        cout << ("Inserte la temperatura del mes: ");
+        cout << ("Inserte la temperatura del mes (Celsius): ");
         cin >> temperatura;
 
         //se sigue hacia el siguiente mes
@@ -23,7 +23,7 @@ int main()
     promedio = promedio / 12;
 
     //resultado final del promedio
-    cout <<"El promedio de las de 12 temperaturas recogidas durante los meses de un año es: "<< promedio <<endl;
+    cout <<"El promedio de las de 12 temperaturas recogidas durante los meses de un año es: "<< promedio <<" celsius."<<endl;
 
     return 0;
 }
