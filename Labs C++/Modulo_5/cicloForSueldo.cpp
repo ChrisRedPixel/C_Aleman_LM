@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    double sueldoBruto, horasTrabajadas, pagoPorHora; 
+    double sueldoBruto, horasTrabajadas, pagoPorHora, sueldoDescuento; 
     double sueldo3Emp = 0;
     //double sueldoNeto;
 
@@ -16,6 +16,10 @@ int main()
         cin >> pagoPorHora;
 
         sueldoBruto = horasTrabajadas * pagoPorHora;
+
+        sueldoDescuento = sueldoBruto * 0.07;
+
+        sueldoBruto = sueldoBruto - sueldoDescuento;
 
         sueldo3Emp = sueldo3Emp + sueldoBruto;
     }
