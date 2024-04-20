@@ -6,7 +6,8 @@ int main()
     double sueldoBruto, horasTrabajadas, horasOvertime, horasRegulares, pagoOvertime, pagoPorHora, sueldoDescuento; 
     double sueldo3Emp = 0;
     double horasOvertimeTotal = 0;
-    //double sueldoNeto;
+    double pagoOvertimeTotal = 0;
+    double sueldoNeto;
 
     for (double i = 0; i < 3; i++)
     {
@@ -15,8 +16,6 @@ int main()
 
         cout <<"Cuanto te pagan por hora?: ";
         cin >> pagoPorHora;
-
-        //sueldoBruto = horasTrabajadas * pagoPorHora;
 
         if (horasTrabajadas > 40)
         {
@@ -28,17 +27,30 @@ int main()
 
             pagoOvertime = (horasOvertime * pagoPorHora) * 2;
 
+            pagoOvertimeTotal = pagoOvertimeTotal + pagoOvertime;
+
             sueldoBruto = horasRegulares * pagoPorHora;
 
             sueldoBruto = sueldoBruto + pagoOvertime;
         }
 
+        else
+        {
+            sueldoBruto = horasTrabajadas * pagoPorHora;
+        }
+
         sueldoDescuento = sueldoBruto * 0.07;
 
-        sueldoBruto = sueldoBruto - sueldoDescuento;
+        sueldoNeto = sueldoBruto - sueldoDescuento;
 
-        sueldo3Emp = sueldo3Emp + sueldoBruto;
+        sueldo3Emp = sueldo3Emp + sueldoNeto;
     }
     
-    cout <<"El sueldo es: "<< sueldo3Emp <<endl;
+    cout <<"El sueldo de los tres empleados es: "<< sueldo3Emp <<endl;
+
+    cout <<"La cantidad de las horas overtime son: "<< horasOvertimeTotal <<endl;
+
+    cout <<"La cantidad de dinero total en las horas overtime son: "<< pagoOvertimeTotal <<endl;
+
+    return 0;
 }
