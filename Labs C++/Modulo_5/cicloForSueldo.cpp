@@ -25,23 +25,24 @@ int main()
 
             horasRegulares = horasTrabajadas - horasOvertime;
 
+            sueldoBruto = (horasRegulares * pagoPorHora);
+
             pagoOvertime = (horasOvertime * pagoPorHora) * 2;
+            pagoOvertimeTotal = pagoOvertimeTotal + pagoOvertime; 
 
-            pagoOvertimeTotal = pagoOvertimeTotal + pagoOvertime;
-
-            sueldoBruto = horasRegulares * pagoPorHora;
-
-            sueldoBruto = sueldoBruto + pagoOvertime;
+            //7% de descuento
+            sueldoDescuento = sueldoBruto * 0.07;
+            sueldoNeto = (sueldoBruto - sueldoDescuento) + pagoOvertime;
         }
 
         else
         {
             sueldoBruto = horasTrabajadas * pagoPorHora;
+
+            //7% de descuento
+            sueldoDescuento = sueldoBruto * 0.07;
+            sueldoNeto = sueldoBruto - sueldoDescuento;
         }
-
-        sueldoDescuento = sueldoBruto * 0.07;
-
-        sueldoNeto = sueldoBruto - sueldoDescuento;
 
         sueldo3Emp = sueldo3Emp + sueldoNeto;
     }
