@@ -19,24 +19,28 @@ int main()
 
         if (horasTrabajadas > 40)
         {
+            //Calculando las horas "overtime"
             horasOvertime = horasTrabajadas - 40;
-
             horasOvertimeTotal = horasOvertimeTotal + horasOvertime;
-
             horasRegulares = horasTrabajadas - horasOvertime;
 
-            sueldoBruto = (horasRegulares * pagoPorHora);
+            //El sueldo bruto sin el 7% de descuento y las horas "overtime"
+            sueldoBruto = horasRegulares * pagoPorHora;
 
+            //Calculando el pago "overtime"
             pagoOvertime = (horasOvertime * pagoPorHora) * 2;
             pagoOvertimeTotal = pagoOvertimeTotal + pagoOvertime; 
 
             //7% de descuento
             sueldoDescuento = sueldoBruto * 0.07;
+
+            //El sueldo neto
             sueldoNeto = (sueldoBruto - sueldoDescuento) + pagoOvertime;
         }
 
         else
         {
+            //El sueldo bruto
             sueldoBruto = horasTrabajadas * pagoPorHora;
 
             //7% de descuento

@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\SueldoEmpleados.cs\obj\Debug\net8.0\SueldoEmpleados.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\SueldoEmpleados.cs\obj\Debug\net8.0\SueldoEmpleados.cs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\SueldoEmpleados.cs\obj\Debug\net8.0\SueldoEmpleados.cs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\SueldoEmpleados.cs\obj\Debug\net8.0\SueldoEmpleados.cs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\COMP2315_LM\LabsC#\SueldoEmpleados.cs\obj\Debug\net8.0\SueldoEmpleados.cs.sourcelink.json
