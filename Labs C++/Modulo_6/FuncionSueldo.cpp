@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-double calcularSueldoFinal(double Ventas)
+double calcularSueldoFinal(double Ventas)//Calculación del sueldo
 {
     double Sueldo;
 
@@ -19,12 +19,12 @@ int main()
 {
     double Ventas, Sueldo;
 
-    cout <<"Cuanto dinero realizó el empleado?: ";
+    cout <<"Cuanto dinero realizó el empleado?: ";//Cantidad de dinero
     cin >> Ventas;
 
     Sueldo = calcularSueldoFinal(Ventas);
 
-    cout <<"Su sueldo total es: "<< Sueldo <<endl;
+    cout <<"Su sueldo total es: "<< Sueldo <<endl;//Sueldo final
 
     return 0;
 }
