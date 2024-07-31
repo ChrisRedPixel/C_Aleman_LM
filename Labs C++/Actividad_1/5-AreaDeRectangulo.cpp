@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//proposito: buscar area de un cuadrado
+//proposito: buscar area de un rectangulo
 
 int main()
 {
