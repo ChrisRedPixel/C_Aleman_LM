@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\Captura.cs\\Captura.cs.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\Captura.cs\\Captura.cs.csproj",
       "projectName": "Captura.cs",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\Captura.cs\\Captura.cs.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\Captura.cs\\Captura.cs.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\Captura.cs\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\Captura.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"

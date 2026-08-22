@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\ejemploVariables\\ejemploVariables.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\ejemploVariables\\ejemploVariables.csproj",
       "projectName": "ejemploVariables",
-      "projectPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\ejemploVariables\\ejemploVariables.csproj",
+      "projectPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\ejemploVariables\\ejemploVariables.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\ejemploVariables\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\ejemploVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"

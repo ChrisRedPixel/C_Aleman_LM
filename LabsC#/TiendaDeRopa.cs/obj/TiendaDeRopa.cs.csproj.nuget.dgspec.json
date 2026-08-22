@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj": {}
+    "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj": {
+    "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj",
         "projectName": "TiendaDeRopa.cs",
-        "projectPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj",
+        "projectPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\TiendaDeRopa.cs.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\OneDrive\\Documentos\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\COMP2315_LM\\LabsC#\\TiendaDeRopa.cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"

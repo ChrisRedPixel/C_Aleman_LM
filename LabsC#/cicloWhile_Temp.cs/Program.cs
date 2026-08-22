@@ -8,7 +8,7 @@ namespace MyApp
         {
             double mes = 0, promedio = 0;
 
-            while(mes < 12)
+            while (mes < 12)
             {
                 //se inserta la temperatura durante el mes
                 Console.Write("Inserte la temperatura del mes (Celsius): ");
